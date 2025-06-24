@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="JPX - https://github.com/jenetics/jpx" xmlns="http://www.topografix.com/GPX/1/1">
+    <trk>
+        <trkseg>
+            <trkpt lat="49.2921146" lon="19.8807835"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2921442" lon="19.8807862"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2921709" lon="19.8807978"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2921953" lon="19.8808214"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2924575" lon="19.8812384"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2925572" lon="19.8814023"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2926175" lon="19.8814752"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2926687" lon="19.8815243"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2926943" lon="19.8815432"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2927308" lon="19.8815628"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2927721" lon="19.8815795"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.2933394" lon="19.8817818"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>

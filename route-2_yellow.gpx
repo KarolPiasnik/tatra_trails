@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="JPX - https://github.com/jenetics/jpx" xmlns="http://www.topografix.com/GPX/1/1">
+    <trk>
+        <trkseg>
+            <trkpt lat="49.1978572" lon="20.0421994"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1977648" lon="20.0417901"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1976781" lon="20.0415971"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1976274" lon="20.0415028"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1976117" lon="20.0413692"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1975804" lon="20.0412749"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1974837" lon="20.0411033"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.19742" lon="20.0409016"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.197354" lon="20.0408341"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1973386" lon="20.0407764"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1974057" lon="20.0407791"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1974504" lon="20.040759"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1975154" lon="20.0407671"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.197516" lon="20.0407042"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.197489" lon="20.0406665"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1974522" lon="20.0406209"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1973899" lon="20.0405524"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1972962" lon="20.0404733"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1971755" lon="20.0404077"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1970999" lon="20.040417"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1970718" lon="20.0403714"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1970737" lon="20.0402764"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1971366" lon="20.0402179"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1972127" lon="20.0401558"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1972318" lon="20.0401416"></trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.1972908" lon="20.0401058"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>
